@@ -1,6 +1,6 @@
 # virtualXBOX
-An open source emulator for the Xbox One
-This emulator aims to be as accurate as possible to the original hardware of the Xbox One, released in 2013 by Microsoft
+An open source virtualizer for the Xbox One
+This virtulizer aims to run games released for the Xbox One at playable speeds
 
 Currently, no games are bootable
 
